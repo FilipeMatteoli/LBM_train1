@@ -1,0 +1,9 @@
+Quantas proteínas hipotéticas foram preditas por genoma?
+Quantos genes (nucleotídeos) de beta lactamase há por genoma?
+Copie os genes  (nucleotídeos) de beta lactamase para outro arquivo
+Compare os genes de beta lactamase por blast. Interprete o resultado, quantos genes de beta lactamase diferentes existem nos 5 genomas?
+Obtenha as sequências das beta lactamases por tipo. Alinhe-as por alinhamento múltiplo (instale o Muscle para isso)
+Visualize o alinhamento.
+Obtenha novas sequências de beta lactamases, do mesmo tipo das obtidas nos genomas, de um banco de dados. Incorpore ao dataset e faça um alinhamento maior.
+Faça uma filogenia (baixe o fasttree).
+Explore o arquivo newick obtido (Figtree, iTOL ou outro).
